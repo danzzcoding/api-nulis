@@ -1,0 +1,26 @@
+body{
+	background-color: black;
+	color: white;
+}
+textarea{
+	background-color: #434343;
+	color: #fff;
+	border: none;
+}
+.confirm{
+	background-color: #004BDF;
+	color: white;
+	border: none;
+	border-radius: 10px;
+	width: 62px;
+	height: 30px;
+}
+.confirm:hover{
+	background-color: #4A7CDF;
+	color: white;
+	border: none;
+}
+a{
+	color: #00B7FF;
+	border: none;
+}
