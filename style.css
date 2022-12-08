@@ -6,21 +6,23 @@ textarea{
 	background-color: #434343;
 	color: #fff;
 	border: none;
+	width: 390px;
+	heigt: 50px;
 }
 .confirm{
-	background-color: #004BDF;
+	background-color: #0053FF;
 	color: white;
 	border: none;
-	border-radius: 10px;
-	width: 62px;
-	height: 30px;
+	border-radius: 22px;
+	width: 100px;
+	height: 50px;
 }
 .confirm:hover{
-	background-color: #4A7CDF;
+	background-color: #2068FF;
 	color: white;
 	border: none;
 }
 a{
-	color: #00B7FF;
+	color: #F4211F;
 	border: none;
 }
